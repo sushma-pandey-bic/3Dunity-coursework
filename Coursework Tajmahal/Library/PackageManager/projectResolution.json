@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "C:/Users/Asus vivobook/OneDrive/Documents/Coursework Tajmahal/Coursework Tajmahal/Packages",
+    "projectPath": "C:/3DUnityProjectCoursework/3Dunity-coursework/Coursework Tajmahal/Packages",
     "unityVersion": "6000.0.58f2"
   },
   "inputs": [
-    "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Packages\\manifest.json",
-    "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Packages\\packages-lock.json",
+    "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Packages\\manifest.json",
+    "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Packages\\packages-lock.json",
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.58f2\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.collab-proxy@2.11.3": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.collab-proxy@e566cd3e7623",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.collab-proxy@e566cd3e7623",
       "fingerprint": "e566cd3e762373591f6828e86f2018eed8021356",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.11.3",
@@ -22,16 +22,19 @@
     "com.unity.feature.development@1.0.2": {
       "name": "com.unity.feature.development",
       "displayName": "Engineering",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.feature.development@767aadbc6eb7",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.feature.development@767aadbc6eb7",
       "fingerprint": "767aadbc6eb72681a4ca807c8fa248e0230a0cef",
       "version": "1.0.2",
       "source": "builtin",
-      "testable": false
+      "testable": false,
+      "errors": [
+        "ENOENT: no such file or directory, stat 'C:\\Users\\Asus vivobook\\AppData\\Local\\Unity\\cache\\upm\\db\\content-v2\\sha512\\12\\9d\\9742f7d8b3816c4b5e7e1bcf8090a9b11220f1187069188f1ca9635eec25aa974956242e94b0e2c6520390bfae156ceb49f87da7e4eff7429c9cd5146d8e'"
+      ]
     },
     "com.unity.inputsystem@1.18.0": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.inputsystem@57d0e36f6123",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.inputsystem@57d0e36f6123",
       "fingerprint": "57d0e36f61231bc5a2579f37d81bf6fa02f40adc",
       "editorCompatibility": "2022.3.0a1",
       "version": "1.18.0",
@@ -41,7 +44,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -51,7 +54,7 @@
     "com.unity.timeline@1.8.10": {
       "name": "com.unity.timeline",
       "displayName": "Timeline",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.timeline@7f8b2fb101b6",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.timeline@7f8b2fb101b6",
       "fingerprint": "7f8b2fb101b6053cc7472330401e94ff0c17b204",
       "editorCompatibility": "2022.3.0a1",
       "version": "1.8.10",
@@ -61,7 +64,7 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ugui@aa507f3228f0",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ugui@aa507f3228f0",
       "fingerprint": "aa507f3228f0351d0fbba1e8c7142b41bc567fe8",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
@@ -71,7 +74,7 @@
     "com.unity.visualscripting@1.9.9": {
       "name": "com.unity.visualscripting",
       "displayName": "Visual Scripting",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.visualscripting@191c0d7e3b69",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.visualscripting@191c0d7e3b69",
       "fingerprint": "191c0d7e3b69bc0df1b6fed3a997c4c3a765ef6a",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.9.9",
@@ -350,20 +353,10 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.ide.visualstudio@2.0.26": {
-      "name": "com.unity.ide.visualstudio",
-      "displayName": "Visual Studio Editor",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ide.visualstudio@a99d56dec63f",
-      "fingerprint": "a99d56dec63ffb3a911a5a9bce9b77ba862a601c",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "2.0.26",
-      "source": "registry",
-      "testable": false
-    },
     "com.unity.ide.rider@3.0.39": {
       "name": "com.unity.ide.rider",
       "displayName": "JetBrains Rider Editor",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ide.rider@4504839d03f7",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ide.rider@4504839d03f7",
       "fingerprint": "4504839d03f7a5a4495357084a0ffd6e439892cf",
       "editorCompatibility": "2021.3.0a1",
       "version": "3.0.39",
@@ -373,7 +366,7 @@
     "com.unity.editorcoroutines@1.0.1": {
       "name": "com.unity.editorcoroutines",
       "displayName": "Editor Coroutines",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.editorcoroutines@54394ed3283c",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.editorcoroutines@54394ed3283c",
       "fingerprint": "54394ed3283c1d492d6a80602b05b04bd0863f8b",
       "editorCompatibility": "2018.1.0a1",
       "version": "1.0.1",
@@ -383,7 +376,7 @@
     "com.unity.performance.profile-analyzer@1.3.1": {
       "name": "com.unity.performance.profile-analyzer",
       "displayName": "Profile Analyzer",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.performance.profile-analyzer@311968ce4be7",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.performance.profile-analyzer@311968ce4be7",
       "fingerprint": "311968ce4be7b8c45e37a6c865e744fb1b7a7b3e",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.1",
@@ -393,7 +386,7 @@
     "com.unity.test-framework@1.5.1": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.test-framework@1f954279c37e",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.test-framework@1f954279c37e",
       "fingerprint": "1f954279c37e8ebe39ba5255476ba9f21e2a19ec",
       "editorCompatibility": "6000.0.44f1",
       "version": "1.5.1",
@@ -403,7 +396,7 @@
     "com.unity.testtools.codecoverage@1.3.0": {
       "name": "com.unity.testtools.codecoverage",
       "displayName": "Code Coverage",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.testtools.codecoverage@19a841221620",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.testtools.codecoverage@19a841221620",
       "fingerprint": "19a8412216200955baa50132d98cb9fe4770e401",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.0",
@@ -413,7 +406,7 @@
     "com.unity.settings-manager@2.1.0": {
       "name": "com.unity.settings-manager",
       "displayName": "Settings Manager",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.settings-manager@41738c275190",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.settings-manager@41738c275190",
       "fingerprint": "41738c27519039c335849eb78949382f4d7a3544",
       "editorCompatibility": "2022.3.0a1",
       "version": "2.1.0",
@@ -423,7 +416,7 @@
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
       "displayName": "Custom NUnit",
-      "resolvedPath": "C:\\Users\\Asus vivobook\\OneDrive\\Documents\\Coursework Tajmahal\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
       "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
