@@ -26,10 +26,7 @@
       "fingerprint": "767aadbc6eb72681a4ca807c8fa248e0230a0cef",
       "version": "1.0.2",
       "source": "builtin",
-      "testable": false,
-      "errors": [
-        "ENOENT: no such file or directory, stat 'C:\\Users\\Asus vivobook\\AppData\\Local\\Unity\\cache\\upm\\db\\content-v2\\sha512\\12\\9d\\9742f7d8b3816c4b5e7e1bcf8090a9b11220f1187069188f1ca9635eec25aa974956242e94b0e2c6520390bfae156ceb49f87da7e4eff7429c9cd5146d8e'"
-      ]
+      "testable": false
     },
     "com.unity.inputsystem@1.18.0": {
       "name": "com.unity.inputsystem",
@@ -351,6 +348,16 @@
       "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.58f2\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ide.visualstudio@2.0.26": {
+      "name": "com.unity.ide.visualstudio",
+      "displayName": "Visual Studio Editor",
+      "resolvedPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Library\\PackageCache\\com.unity.ide.visualstudio@a99d56dec63f",
+      "fingerprint": "a99d56dec63ffb3a911a5a9bce9b77ba862a601c",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "2.0.26",
+      "source": "registry",
       "testable": false
     },
     "com.unity.ide.rider@3.0.39": {
