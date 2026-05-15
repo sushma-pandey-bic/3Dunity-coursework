@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: de94720d5e30f1544b10af7ed5c7adc0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 325204
+  packageName: 'PolyPeople Series - City People [Free]'
+  packageVersion: 1.1
+  assetPath: Assets/CityPeople_Free/Meshes/Female_Adult.fbx
+  uploadId: 784194
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -428,10 +435,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 325204
-  packageName: 'PolyPeople Series - City People [Free]'
-  packageVersion: 1.1
-  assetPath: Assets/CityPeople_Free/Meshes/Female_Adult.fbx
-  uploadId: 784194
