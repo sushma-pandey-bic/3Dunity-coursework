@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB71586F-9FBA-B9AD-66D6-AC8544063D2F}|Assembly-CSharp.csproj|c:\\3dunityprojectcoursework\\3dunity-coursework\\coursework tajmahal\\assets\\scripts\\gatewelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\3dunityprojectcoursework\\3dunity-coursework\\coursework tajmahal\\assets\\scripts\\mouseclicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\mouseclicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB71586F-9FBA-B9AD-66D6-AC8544063D2F}|Assembly-CSharp.csproj|C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB71586F-9FBA-B9AD-66D6-AC8544063D2F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB71586F-9FBA-B9AD-66D6-AC8544063D2F}|Assembly-CSharp.csproj|C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\assets\\scripts\\gatewelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB71586F-9FBA-B9AD-66D6-AC8544063D2F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gatewelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MouseClicker.cs",
+              "DocumentMoniker": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Assets\\Scripts\\MouseClicker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseClicker.cs",
+              "ToolTip": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Assets\\Scripts\\MouseClicker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseClicker.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:38:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:26:37.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GateWelcome.cs",
               "DocumentMoniker": "C:\\3DUnityProjectCoursework\\3Dunity-coursework\\Coursework Tajmahal\\Assets\\Scripts\\GateWelcome.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GateWelcome.cs",
@@ -26,8 +59,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GateWelcome.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T09:50:13.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T09:50:13.716Z"
             }
           ]
         }
